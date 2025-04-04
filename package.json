@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IsadoraFratte/ProjetoSpotify-JornadaFullStack-Hashtag.git"
+    "url": "git+https://github.com/IsadoraFratte/ProjetoSpotify-Hashtag.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IsadoraFratte/ProjetoSpotify-JornadaFullStack-Hashtag/issues"
+    "url": "https://github.com/IsadoraFratte/ProjetoSpotify-Hashtag/issues"
   },
-  "homepage": "https://github.com/IsadoraFratte/ProjetoSpotify-JornadaFullStack-Hashtag#readme"
+  "homepage": "https://github.com/IsadoraFratte/ProjetoSpotify-Hashtag#readme"
 }
