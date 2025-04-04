@@ -1,0 +1,22 @@
+{
+  "name": "projetospotify",
+  "version": "1.0.0",
+  "description": "![Capa](./front-end/src/assets/logo/capa.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install --prefix back-end && npm install --prefix front-end && npm run build --prefix front-end",
+    "start": "npm run start --prefix back-end"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsadoraFratte/ProjetoSpotify-JornadaFullStack-Hashtag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsadoraFratte/ProjetoSpotify-JornadaFullStack-Hashtag/issues"
+  },
+  "homepage": "https://github.com/IsadoraFratte/ProjetoSpotify-JornadaFullStack-Hashtag#readme"
+}
